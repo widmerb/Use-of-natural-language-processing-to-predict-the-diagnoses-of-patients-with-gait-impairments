@@ -6,7 +6,7 @@ A web interface integrating the fine-tuned BERT classifier is available at [http
 
 ### Use of natural language processing to predict the diagnoses of patients with gait impairments
 
-doi: https://www.sciencedirect.com/science/article/pii/S2352914825001017?via%3Dihub
+doi: https://www.sciencedirect.com/science/article/pii/S2352914825001017
 
 # Contributors
 Bastian Widmer
